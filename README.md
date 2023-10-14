@@ -1,4 +1,11 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuhin114&theme=codeSTACKr)
+#Github Statcards from https://github-profile-summary-cards.vercel.app/demo.html 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tuhin114&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tuhin114&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tuhin114&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuhin114&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tuhin114&theme=dark&utcOffset=8)
+
+
 <h1 align="center">Hi 👋, I'm Tuhin Poddar</h1>
 <h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development</h3>
 
