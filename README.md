@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Tuhin Poddar</h1>
+<h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhin114&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhin114&theme=github)
@@ -5,8 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuhin114&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuhin114&theme=github&utcOffset=8)
 
-<h1 align="center">Hi 👋, I'm Tuhin Poddar</h1>
-<h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhin114&label=Profile%20views&color=0e75b6&style=flat" alt="tuhin114" /> </p>
 
