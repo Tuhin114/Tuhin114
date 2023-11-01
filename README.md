@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tuhin Poddar</h1>
-<h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development</h3>
+<h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development | Open Source</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhin114&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhin114&theme=github)
