@@ -15,7 +15,7 @@
 - 📫 How to reach me **tuhinpoddar114@gmail.com**
 - Connect with me **https://www.linkedin.com/in/tuhin-poddar-a2a84b274**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
