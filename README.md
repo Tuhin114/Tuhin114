@@ -9,7 +9,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tuhin114&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=tuhin114&color=brightgreen)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhin114" alt="tuhin114" /></a> </p>
