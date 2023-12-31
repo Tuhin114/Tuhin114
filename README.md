@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Tuhin Poddar</h1>
 <h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development | Open Source</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhin114&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhin114&theme=github)
