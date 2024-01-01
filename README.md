@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tuhin Poddar</h1>
 <h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development | Open Source</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-poddar-a2a84b274/) 
+<!-- ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-poddar-a2a84b274/)  -->
 
 
 
