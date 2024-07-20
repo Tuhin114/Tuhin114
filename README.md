@@ -1,8 +1,20 @@
 <h1 align="center">Hi, I'm Tuhin Poddar</h1>
-<h3 align="center">B.Tech CS '27 | Coding Enthusiast | Web Development | Open Source</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-<!-- ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-poddar-a2a84b274/)  -->
+<h3 align="center">B.Tech CS '27 | 2⭐ CodeChef | 250+ LeetCode | React.js | JavaScript</h3>
+<img align="right" alt="Coding" width="1000" height="500" src="https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg4NDQsIm5iZiI6MTcyMTQzODU0NCwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIwVDAxMjIyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllY2ZmOWViYTJkOTM5YzE4ODYxN2MwZWM2ZWE0ZDU5MTMwODY4MzczZjdkZWU3MGQ5M2MyNjIzZTU1YTY2NjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nC0AECnq2DeNDzjuKQDW-lymowujVFBjxq_IZ6V4afA">
 
+- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I love developing new products
+- 🌱 You can mail me in **tuhinpoddar114@gmail.com**
+
+<h3 align="left">My Social Links</h3>
+<p align="left">
+<a href="https://twitter.com/4334tuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4334tuhin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tuhin-poddar-a2a84b274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuhin-poddar-a2a84b274" height="30" width="40" /></a>
+<a href="https://instagram.com/tuhinpoddar_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuhinpoddar_2004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tuhinpoddar114" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tuhinpoddar114" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tuhin_114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tuhin_114" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tuhin_114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tuhin_114" height="30" width="40" /></a>
+</p>
 
 
 
