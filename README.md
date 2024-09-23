@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tuhin Poddar</h1>
-<h3 align="center">B.Tech CS '27 | 2⭐ CodeChef | 250+ LeetCode | React.js | JavaScript</h3>
+<h3 align="center">B.Tech CS '27 | 2⭐ CodeChef | 300+ LeetCode | React.js | JavaScript</h3>
 <img align="right" alt="Coding" width="1000" height="500" src="https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0Mzg4NDQsIm5iZiI6MTcyMTQzODU0NCwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIwVDAxMjIyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllY2ZmOWViYTJkOTM5YzE4ODYxN2MwZWM2ZWE0ZDU5MTMwODY4MzczZjdkZWU3MGQ5M2MyNjIzZTU1YTY2NjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nC0AECnq2DeNDzjuKQDW-lymowujVFBjxq_IZ6V4afA">
 
 ![](https://komarev.com/ghpvc/?username=tuhin114&color=brightgreen)
