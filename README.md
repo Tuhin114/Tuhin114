@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=tuhin114&color=brightgreen)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/4334tuhin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tuhin-poddar-a2a84b274)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tuhinpoddar_2004/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_tuhin.poddar_/)
 
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
