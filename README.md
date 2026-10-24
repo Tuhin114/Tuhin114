@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tuhin-poddar-a2a84b274)
 
 
-- 🌱 I’m currently busy in learning core cs fundamental🥀
+- 🌱 I’m currently busy in learning core cs fundamentals🥀
 - 🌱 I love developing new products 😄
 - 🌱 You can see my pinned projects below ⬇️
 - 🌱 Currently I am working on my blog application.
